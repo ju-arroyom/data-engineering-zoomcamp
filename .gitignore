@@ -1,5 +1,9 @@
 # Avoid parquet files
 *.parquet
+# Avoid csv files
+*.csv
+# Avoid .env
+*.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
